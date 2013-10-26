@@ -1,0 +1,30 @@
+{
+  "name"    : "",
+  "version" : "0.1",
+  "styling" : {
+    "textColor" : "#FFF",
+    "textShadowColor": "none",
+    "borderColor": "#3B5998",
+    "bgColor": "#3B5998",
+    "bgImage": "/images/teamwork/environments/facebook-text.png"
+  },
+  "content": {
+    "type": "zip",
+    "url" : "https://www.dropbox.com/s/35i0si815bjiupf/Facebook.zip"
+  },
+  "importModalContent": "<p>You have import this file to start working...</p>",
+  "examples": [
+    {
+      "title": "Getting Started",
+      "description": "This is my desc"
+    },
+    {
+      "title": "Like Widget",
+      "description": "This is my desc for like widget"
+    },
+    {
+      "title": "Share Widget",
+      "description": "This is my desc for share widget"
+    }
+  ]
+}
