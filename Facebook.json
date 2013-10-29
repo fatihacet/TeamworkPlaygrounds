@@ -14,15 +14,15 @@
   },
   "examples": [
     {
-      "title": "Getting Started",
+      "title": "getting-started",
       "description": "In this tutorial, you will learn the basics of Facebook Application Development."
     },
     {
-      "title": "Open Graph Basics",
+      "title": "open-graph",
       "description": "Getting started with Open Graph."
     },
     {
-      "title": "FriendSmash",
+      "title": "web-friend-smash",
       "description": "Friend Smash sample Facebook app"
     }
   ]
