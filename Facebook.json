@@ -15,15 +15,15 @@
   "examples": [
     {
       "title": "Getting Started",
-      "description": "This is my desc"
+      "description": "In this tutorial, you will learn the basics of Facebook Application Development."
     },
     {
-      "title": "Like Widget",
-      "description": "This is my desc for like widget"
+      "title": "Open Graph Basics",
+      "description": "Getting started with Open Graph."
     },
     {
-      "title": "Share Widget",
-      "description": "This is my desc for share widget"
+      "title": "FriendSmash",
+      "description": "Friend Smash sample Facebook app"
     }
   ]
 }
