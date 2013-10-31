@@ -14,16 +14,28 @@
   },
   "examples": [
     {
-      "title": "getting-started",
-      "description": "In this tutorial, you will learn the basics of Facebook Application Development."
+      "title": "embedded-posts",
+      "description": "Embed posts from Facebook to your site."
+    },
+    {
+      "title": "like-box",
+      "description": "Embed a Facebook Like box into your site."
+    },
+    {
+      "title": "like-button",
+      "description": "Embed a Facebook Like button into your site."
+    }
+    {
+      "title": "login",
+      "description": "Create a simple chat using Facebook login and Firebase."
     },
     {
       "title": "open-graph",
-      "description": "Getting started with Open Graph."
+      "description": "Getting started with Facebook Open Graph."
     },
     {
-      "title": "web-friend-smash",
-      "description": "Friend Smash sample Facebook app"
+      "title": "share",
+      "description": "Embed a Share Dialog into your site."
     }
   ]
 }
