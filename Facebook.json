@@ -26,10 +26,6 @@
       "description": "Embed a Facebook Like button into your site."
     },
     {
-      "title": "login",
-      "description": "Create a simple chat using Facebook login and Firebase."
-    },
-    {
       "title": "open-graph",
       "description": "Getting started with Facebook Open Graph."
     },
